@@ -1,0 +1,168 @@
+header {
+    font-family: sans-serif;
+    background-color: rgb(107, 107, 206);
+    width: 101.2%;
+    margin-top: -80px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    border-bottom-left-radius: 25px;
+    z-index: 5;
+    position: fixed;
+    height: 70px;
+}
+body {
+    background-color: hsl(240, 50%, 41%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+.workSamples {
+    font-family: sans-serif;
+    background-color: rgb(107, 107, 206);
+    color: white;
+    margin-right: -10px;
+    margin-left: -10px;
+    padding-bottom: 50px;
+    margin-top: 70px;
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-right: 15px;
+    z-index: 0;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    border-left-width: 0px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 100px;
+    margin-bottom: 25px;
+    width: 325px;
+}
+.aboutMe {
+    font-family: sans-serif;
+    background-color: rgb(107, 107, 206);
+    color: white;
+    margin-right: -10px;
+    position: absolute;
+    right: 0;
+    width: 415px;
+    padding-bottom: 50px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 15px;
+    z-index: 0;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    border-right-width: 0px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 100px;
+    margin-bottom: 25px;
+    margin-top: -619px;
+}
+.experiences {
+    font-family: sans-serif;
+    background-color: rgb(107, 107, 206);
+    color: white;
+    margin-right: -10px;
+    position: absolute;
+    right: 0;
+    width: 415px;
+    padding-bottom: 50px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 15px;
+    z-index: 0;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    border-right-width: 0px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 100px;
+    margin-bottom: 25px;
+    margin-top: -125px;
+}
+.languages {
+    font-family: sans-serif;
+    background-color: rgb(107, 107, 206);
+    color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+    border-top-left-radius: 90px;
+    padding-bottom: 10px;
+    margin-top: 517px;
+}
+a {
+    color: white;
+}
+#PL {
+    margin-left: 25px;
+    margin-right: 90%;
+    margin-top: 70px;
+    font-weight: bold;
+}
+.langImgs {
+    padding-bottom: 20px;
+    margin-top: -225px;
+}
+.home {
+    position: absolute;
+    left: 5%;
+    top: 15%;
+    width: 100px;
+    height: 55px;
+    font-size: 18pt;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(107, 107, 206);
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+}
+.contactMe {
+    position: absolute;
+    right: 5%;
+    top: 15%;
+    width: 100px;
+    height: 55px;
+    font-size: 15pt;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(107, 107, 206);
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+}
+.home:hover {
+    border-width: 2px;
+    background-color: hsl(240, 50%, 71%);
+}
+.contactMe:hover {
+    border-width: 2px;
+    background-color: hsl(240, 50%, 71%);
+}
+#CYOAimg {
+    width: 320px;
+    height: 180px;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+}
+#gameSuggestorimg {
+    width: 320px;
+    height: 180px;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    border-bottom-right-radius: 30px;
+}
