@@ -2,7 +2,7 @@ header {
     font-family: sans-serif;
     background-color: rgb(107, 107, 206);
     width: 101.2%;
-    margin-top: -80px;
+    margin-top: -90px;
     margin-left: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -28,7 +28,7 @@ body {
     margin-right: -10px;
     margin-left: -10px;
     padding-bottom: 50px;
-    margin-top: 70px;
+    margin-top: 80px;
     padding-top: 15px;
     padding-left: 25px;
     padding-right: 15px;
@@ -62,7 +62,7 @@ body {
     border-top-left-radius: 8px;
     border-bottom-left-radius: 100px;
     margin-bottom: 25px;
-    margin-top: -619px;
+    margin-top: -575px;
 }
 .experiences {
     font-family: sans-serif;
@@ -84,7 +84,7 @@ body {
     border-top-left-radius: 8px;
     border-bottom-left-radius: 100px;
     margin-bottom: 25px;
-    margin-top: -125px;
+    margin-top: -360px;
 }
 .languages {
     font-family: sans-serif;
@@ -96,7 +96,7 @@ body {
     border-radius: 8px;
     border-top-left-radius: 90px;
     padding-bottom: 10px;
-    margin-top: 517px;
+    margin-top: 170px;
 }
 a {
     color: white;
@@ -150,19 +150,36 @@ a {
     background-color: hsl(240, 50%, 71%);
 }
 #CYOAimg {
-    width: 320px;
-    height: 180px;
+    width: 280px;
+    height: 158px;
     border-color: white;
     border-style: solid;
     border-width: 2px;
     border-radius: 8px;
 }
 #gameSuggestorimg {
-    width: 320px;
-    height: 180px;
+    width: 280px;
+    height: 158px;
     border-color: white;
     border-style: solid;
     border-width: 2px;
+    border-radius: 8px;
+    border-bottom-right-radius: 30px;
+}
+#CYOAimg:hover {
+    width: 278px;
+    height: 156px;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 8px;
+}
+#gameSuggestorimg:hover {
+    width: 276px;
+    height: 154px;
+    border-color: white;
+    border-style: solid;
+    border-width: 4px;
     border-radius: 8px;
     border-bottom-right-radius: 30px;
 }
