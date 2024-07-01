@@ -51,8 +51,9 @@ body {
 }
 #GmailText {
     margin-right: 50%;
-    margin-top: -3%;
+    margin-top: 0%;
     border-radius: 8px;
+    margin-bottom: -100px;
     width: 260px;
     background-color: hsl(240, 50%, 41%);
     height: 32px;
@@ -66,7 +67,8 @@ body {
 }
 #GmailText:hover {
     margin-right: 50%;
-    margin-top: -3%;
+    margin-top: 0%;
+    border-radius: 8px;
     border-radius: 8px;
     width: 260px;
     background-color: hsl(240, 50%, 71%);
@@ -81,33 +83,35 @@ body {
 }
 #Gmail {
     margin-right: 50%;
-    margin-top: 5%;
+    margin-top: 6%;
+    margin-bottom: -120px;
     width: 256px;
+    height: 256px;
     border-radius: 8px;
     border-width: 2px;
     border-color: white;
     border-style: solid;
+    margin-bottom: -51.6px;
 }
 #Github {
-    position: absolute;
-    right: 21.4%;
+    right: 291px;
     margin-left: 50%;
-    margin-top: 5%;
+    margin-top: -50%;
     width: 256px;
+    height: 256px;
     border-radius: 8px;
     border-width: 2px;
     border-color: white;
     border-style: solid;
     background-color: white;
-    top: 13.2%;
+    margin-bottom: -34px;
 }
 #GithubText {
-    position: absolute;
-    right: 21.4%;
     margin-left: 50%;
-    margin-top: -1.5%;
+    bottom: 1200px;
     border-radius: 8px;
     width: 260px;
+    margin-top: -50%;
     background-color: hsl(240, 50%, 41%);
     height: 32px;
     color: rgb(214, 214, 214);
@@ -119,10 +123,9 @@ body {
     border-style: solid;
 }
 #GithubText:hover {
-    position: absolute;
     right: 21.4%;
     margin-left: 50%;
-    margin-top: -1.5%;
+    margin-top: -50%;
     border-radius: 8px;
     width: 260px;
     background-color: hsl(240, 50%, 71%);
@@ -134,4 +137,20 @@ body {
     font-family: sans-serif;
     border-color: white;
     border-style: solid;
+}
+#gmailLabel {
+    position: absolute;
+    left: 400px;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 40px;
+    font-size: 15pt;
+}
+#githubLabel {
+    position: absolute;
+    right: 400px;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 40px;
+    font-size: 15pt;
 }

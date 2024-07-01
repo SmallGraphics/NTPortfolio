@@ -16,9 +16,7 @@ header {
     height: 70px;
 }
 body {
-    background-color: hsl(240, 50%, 41%);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-image: "./images/background.png";
     overflow-x: hidden;
 }
 .workSamples {
