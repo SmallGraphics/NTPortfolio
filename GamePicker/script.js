@@ -28,7 +28,7 @@ if (l1 === false) {
     
         img1.src = "./images/gameIcons/Half-Life_Series.png";
         img2.src = "./images/gameIcons/GTA5.webp";
-        img3.src = "./images/gameIcons/RDR2.png";
+        img3.src = "./images/gameIcons/rdr2.png";
         img4.src = "./images/gameIcons/ER.png";
     
         option1.innerHTML = "2D";
