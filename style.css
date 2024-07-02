@@ -16,7 +16,9 @@ header {
     height: 70px;
 }
 body {
-    background-image: "./images/background.png";
+    background: url(images/background.png);
+    background-repeat: no-repeat;
+    background-color: hsl(240, 50%, 41%);
     overflow-x: hidden;
 }
 .workSamples {
